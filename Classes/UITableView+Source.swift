@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import ObjectiveC
+import Foundation
 
 struct UITableViewAssociatedObjectHandle {
     static var Source: UInt8 = 0
